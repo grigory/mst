@@ -1,0 +1,5 @@
+warning: this program uses gets(), which is unsafe.
+-1
+5
+-5
+10

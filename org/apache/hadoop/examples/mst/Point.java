@@ -187,7 +187,7 @@ public class Point implements WritableComparable<Point> {
         		  best = i;
         		  bestdist = dist[i];
         	  }
-          }
+          }	
           System.out.println("Best = " + best);
           System.out.println("Best dist = " + bestdist);
           if (best == -1) {
